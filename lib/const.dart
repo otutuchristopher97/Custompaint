@@ -1,0 +1,1 @@
+const kNewScreen = "nextscreen";
